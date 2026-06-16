@@ -1,1 +1,25 @@
+.env
+.env.local
+.env.production
+secrets.js
+config.secret.js
 
+.DS_Store
+.AppleDouble
+.LSOverride
+
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+*.log
+npm-debug.log*
+
+node_modules/
